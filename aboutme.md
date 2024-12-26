@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Alex Follette.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Highlights:
+* Born in the American Rockies.
+* Outdoorsy - countless backpack adventures in the SouthWest United States. Annapurna trail in Nepal. Cycled 400k's across Tasmania.
+* Advid traveled - Visited 16 countries and all inhabitable continents.
+* Likes turtles - likes turtls
+* Bioinformatician - Built my career around wrangling genomic data -- although that's not the only thing. Also a proven software and data engineer!
+* Likes plants - Has a nice cacti collection
