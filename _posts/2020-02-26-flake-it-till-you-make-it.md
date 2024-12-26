@@ -17,8 +17,6 @@ author: Alex Follette
 **Location:** Melbourne, Australia  
 **[LinkedIn](https://www.linkedin.com/in/alex-follette-84975559/)**  
 
-<!--  ![Profile Picture](https://storage.rxresu.me/cm4cmi1ea2o08dbpop6396hho/pictures/cm4cmi1ea2o08dbpop6396hho.jpg) -->
-
 ---
 
 ## Summary
