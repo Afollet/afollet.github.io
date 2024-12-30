@@ -1,3 +1,11 @@
+---
+layout: post
+title: Stepping Around popups
+subtitle: Fun with Userscripts
+tags: [userscripts, frontend, javascript]
+author: Alex Follette
+---
+
 ## Stepping Around Popups
 
 ### Introduction
