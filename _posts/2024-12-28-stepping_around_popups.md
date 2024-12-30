@@ -2,6 +2,8 @@
 layout: post
 title: Stepping Around popups
 subtitle: Fun with Userscripts
+cover-img: /assets/img/greasemonkey_logo.jpeg
+thumbnail: /assets/img/greasemonkey_logo.jpeg
 tags: [userscripts, frontend, javascript]
 author: Alex Follette
 ---
